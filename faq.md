@@ -6,17 +6,13 @@ A source for what's new on the web--customized for you. We want to democratize t
 
 Anything. Well, almost anything. We'd like Meta to be the source for everything that's new on the web: if it's linkable, it's submitable. There is a caveat here, we presently only allow "work-safe" material, which means no adult content.
 
-### What does the  on the right side of each headline do?
-
-It hides the particular item (also known as the "rtm-button").
-
 ### How is popularity determined?
 
 Each time you promote  a submission, it boosts it closer to the front page. Conversely, demoting  an item pushes it further down into oblivion.
 
-### How are "redditors" ranked?
+### How are "Metators" ranked?
 
-When a particular item is promoted or demoted, the user who posted it is either rewarded or punished--a system of editorial karma. In the same way that popular submissions are voted to the top, the individuals who post them get increases in karma. Each "redditor" has an equal vote in rating submissions, regardless of his/her karma. Although democracy isn’t perfect, this experiment should supply the public with the information they demand while also rewarding those who provide it.
+When a particular item is promoted or demoted, the Metator who posted it is either rewarded or punished--a system of editorial karma. In the same way that popular submissions are voted to the top, the individuals who post them get increases in karma. Each "Metator" has an equal vote in rating submissions, regardless of his/her karma. Although democracy isn’t perfect, this experiment should supply the public with the information they demand while also rewarding those who provide it.
 
 ### How do I accumulate karma?
 
@@ -38,4 +34,4 @@ In one sense, if you've participated--you have. But that was probably not the an
 
 ### I have more questions/comments/suggestions. Can I contact you?
 
-We’d love to hear from you. Please send them to tylerwolfe81@gmail.com
+I’d love to hear from you. Please send them to tylerwolfe81@gmail.com
